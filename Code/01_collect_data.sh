@@ -14,6 +14,4 @@ done;
 # Select the primary transcripts
 for f in *fa ; do python3 /opt/OrthoFinder/tools/primary_transcript.py $f ; done
 
-# Call orthofinder 
-cd ..
-orthofinder -f proteomes/primary_transcripts/
+

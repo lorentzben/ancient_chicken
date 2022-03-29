@@ -3,7 +3,7 @@
 # Collect the files
 mkdir proteomes
 cd proteomes
-wget http://ftp.ensembl.org/pub/release-105/fasta/homo_sapiens/pep/Homo_sapiens.GRCh38.pep.all.fa.gz
+wget http://ftp.ensembl.org/pub/release-105/fasta/homo_sapiens/pep/Homo_sapiens.GRCh38.pep.all.fa.gz -O Homo_sapiens.fa.gz
 
 # Uncompress the data
 for f in *.gz

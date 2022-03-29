@@ -12,9 +12,9 @@ do
 done;
 
 # Select the primary transcripts
-for f in $.fa
+for g in $.fa
 do
-    python3 /opt/OrthoFinder/tools/primary_transcript.py $f
+    python3 /opt/OrthoFinder/tools/primary_transcript.py $g
 done;
 
 # Call orthofinder 

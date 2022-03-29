@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Background Doc.md",
+            "file": "Progress_notes/3_29.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Background Doc.md",
+                "file": "Progress_notes/3_29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,15 @@
   },
   "active": "a965320626b1ede3",
   "lastOpenFiles": [
-    "Background Doc.md",
-    "Things I want to explore.md",
-    "Notes From Textbooks/Sturkie- Avian Physiology 7th ed.md",
-    "Papers/srikanth_2019.pdf",
-    "Notes From Textbooks/Sturkie-Avian Physiology.md"
+    "Progress_notes/3_29.md",
+    "Progress_notes/3_28 OrthoFinder Info.md",
+    "Nitrogen Handling/nitrogen_metabolism_phascolarctos_cinereus.png",
+    "Nitrogen Handling/nitrogen_metabolism_ornithorhynchus_anatinus.png",
+    "Nitrogen Handling/nitrogen_metabolism_homo_sapiens.png",
+    "Nitrogen Handling/nitrogen_metabolism_gallus_gallus.png",
+    "Nitrogen Handling/nitrogen_metabolism_chrysemys_picta.png",
+    "Nitrogen Handling/nitrogen_metabolism_alligator_mississippiensis.png",
+    "time_tree_species_long.txt_speciest.png",
+    "Things I want to explore.md"
   ]
 }

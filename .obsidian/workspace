@@ -7,9 +7,11 @@
         "id": "a965320626b1ede3",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "time_tree_species_long.txt_speciest.png"
+            "file": "Progress_notes/3_31 Check out some Results.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "time_tree_species_long.txt_speciest.png",
+                "file": "Progress_notes/3_31 Check out some Results.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +89,15 @@
   },
   "active": "a965320626b1ede3",
   "lastOpenFiles": [
-    "time_tree_species_long.txt_speciest.png",
+    "Progress_notes/3_31 Check out some Results.md",
+    "Progress_notes/Genes to Explore.md",
     "Progress_notes/3_29.md",
     "Progress_notes/3_28 OrthoFinder Info.md",
+    "time_tree_species_long.txt_speciest.png",
     "Nitrogen Handling/nitrogen_metabolism_phascolarctos_cinereus.png",
     "Nitrogen Handling/nitrogen_metabolism_ornithorhynchus_anatinus.png",
     "Nitrogen Handling/nitrogen_metabolism_homo_sapiens.png",
     "Nitrogen Handling/nitrogen_metabolism_gallus_gallus.png",
-    "Nitrogen Handling/nitrogen_metabolism_chrysemys_picta.png",
-    "Nitrogen Handling/nitrogen_metabolism_alligator_mississippiensis.png",
-    "Things I want to explore.md"
+    "Nitrogen Handling/nitrogen_metabolism_chrysemys_picta.png"
   ]
 }

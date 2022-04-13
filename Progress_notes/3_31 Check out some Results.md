@@ -11,3 +11,5 @@ He had a couple things for me to look into:
 I really felt like he heard what I had to say and I think he had some really good points so I'm glad I met with him. 
 
 Also for the paper the ARG1 and NAGS might be the best bet for a writeup. 
+
+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

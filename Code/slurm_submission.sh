@@ -11,5 +11,7 @@
 #SBATCH --mail-user=""
 #SBATCH --mail-type=BEGIN,END,FAIL
 
+ml BLAST+/2.12.0-gompi-2020b
+ml IQ-TREE/2.2.0-GCC-10.2.0-nompi
 singularity run docker://lorentzb/orthofinder bash 02_call_orthofinder.sh
 

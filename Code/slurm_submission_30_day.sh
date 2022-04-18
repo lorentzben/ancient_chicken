@@ -1,0 +1,18 @@
+#!/bin/bash
+
+#SBATCH --partition=batch-30-d
+#SBATCH --job-name=Orthofinder
+#SBATCH --nodes=2
+#SBATCH --ntasks=8
+#SBATCH --time=700:00:00
+#SBATCH --mem=64gb
+
+#Replace this with your UGA email to get notified on completion
+#SBATCH --mail-user=""
+#SBATCH --mail-type=BEGIN,END,FAIL
+
+ml BLAST+/2.12.0-gompi-2020b
+ml IQ-TREE/1.6.12-foss-2019b
+ml OrthoFinder/2.5.2-foss-2019b-Python-3.7.4
+bash 02_call_orthofinder.sh
+

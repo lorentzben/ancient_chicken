@@ -41,6 +41,7 @@ From [this website](https://thebiologynotes.com/nitrogenous-waste-urea-cycle-and
 	- 5’nucleotidase (NT5C2)
 		- ENSGALG00000008179
 		- OG0001911
+		- KO 3.1.3.5
 	- adenosine deaminase (ADA)
 		- [ENSGALG00000004170](https://www.ensembl.org/Gallus_gallus/geneview?gene=ENSGALG00000004170)
 		- OG0004027

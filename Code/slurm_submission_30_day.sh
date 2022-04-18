@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --partition=batch-30-d
+#SBATCH --partition=batch_30d
 #SBATCH --job-name=Orthofinder
 #SBATCH --nodes=2
 #SBATCH --ntasks=8
